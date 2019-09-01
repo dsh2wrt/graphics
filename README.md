@@ -1,5 +1,8 @@
 # graphics
+
 ## Graphics basics
+### Noise
+
 ## Pipeline architecture
 [modern rendering with metal](https://developer.apple.com/videos/play/wwdc2019/601/)
 ## Lighting
@@ -16,5 +19,10 @@
 ## Camera
 
 ## Blog
+### Synthesize 
 * [hanecci's blog](https://hanecci.com/)
 * [sigraph realtime rendering](http://advances.realtimerendering.com/)
+### TA
+
+## Uncategorized
+
