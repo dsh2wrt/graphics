@@ -5,6 +5,10 @@
 
 ## Pipeline architecture
 [modern rendering with metal](https://developer.apple.com/videos/play/wwdc2019/601/)
+
+### GPU interface
+[Designing a Modern GPU Interface](http://www.goatientertainment.com/downloads/Designing%20a%20Modern%20GPU%20Interface.pptx)
+
 ## Lighting
 
 ### Lighting algorithm
