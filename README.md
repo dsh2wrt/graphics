@@ -11,6 +11,10 @@
 
 ## Lighting
 
+### PBR
+* [filament readme](https://google.github.io/filament/Filament.html)
+* [filament materials guide](https://google.github.io/filament/Materials.html)
+* [filament material properties](https://google.github.io/filament/Material%20Properties.pdf)
 ### Lighting algorithm
 #### Spherical gaussian
 * https://seblagarde.wordpress.com/2012/06/03/spherical-gaussien-approximation-for-blinn-phong-phong-and-fresnel/#more-822
@@ -26,6 +30,11 @@
 ### Synthesize 
 * [hanecci's blog](https://hanecci.com/)
 * [sigraph realtime rendering](http://advances.realtimerendering.com/)
+
+### Course
+* [Learn OpenGL](https://learnopengl.com/)
+* [scratchapixel](https://www.scratchapixel.com/)
+
 ### TA
 
 ## Uncategorized
