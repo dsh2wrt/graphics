@@ -10,6 +10,8 @@
 [Designing a Modern GPU Interface](http://www.goatientertainment.com/downloads/Designing%20a%20Modern%20GPU%20Interface.pptx)
 
 ## Lighting
+* [PRACTICAL DYNAMIC LIGHTING FOR LARGE-SCALE GAME ENVIRONMENTS(sigraph 2019)](http://s1.pearlcdn.com/pearlabyss/publications/Practical%20Dynamic%20Lighting%20for%20Large-Scale%20Game%20Environments.pdf)
+* [A Scalable Real-Time Many-Shadowed-Light Rendering System(sigraph 2019)](https://drive.google.com/file/d/19EHLJAfqQECjRRShHyS3mHrg4XFxpCOx/view)
 
 ### PBR
 * [filament readme](https://google.github.io/filament/Filament.md.html)
