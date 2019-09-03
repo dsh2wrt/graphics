@@ -21,6 +21,7 @@
 * https://mynameismjp.wordpress.com/2016/10/09/new-blog-series-lightmap-baking-and-spherical-gaussians/
 
 ## Effect&&Particle
+* [High Fidelity Cached Simulations in Real-Time](https://drive.google.com/file/d/1FareX1w3OLDed_RRU9XhdHGvpExqAafF/view)
 ### Atmospheric
 * [Creating the Atmospheric World of Red Dead Redemption 2: A Complete and Integrated Solution(sigraph 2019)](http://advances.realtimerendering.com/s2019/slides_public_release.pptx)
 
