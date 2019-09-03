@@ -12,7 +12,7 @@
 ## Lighting
 
 ### PBR
-* [filament readme](https://google.github.io/filament/Filament.html)
+* [filament readme](https://google.github.io/filament/Filament.md.html)
 * [filament materials guide](https://google.github.io/filament/Materials.html)
 * [filament material properties](https://google.github.io/filament/Material%20Properties.pdf)
 ### Lighting algorithm
