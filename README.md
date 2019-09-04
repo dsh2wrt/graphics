@@ -34,6 +34,11 @@
 * [hanecci's blog](https://hanecci.com/)
 * [sigraph realtime rendering](http://advances.realtimerendering.com/)
 
+### Game Engine(Company)
+* [activision](https://research.activision.com/publications)
+* [guerrilla](https://www.guerrilla-games.com/read/publications)
+* [frostbite](https://www.ea.com/frostbite/news)
+
 ### Course
 * [Learn OpenGL](https://learnopengl.com/)
 * [scratchapixel](https://www.scratchapixel.com/)
@@ -41,4 +46,5 @@
 ### TA
 
 ## Uncategorized
+* [FROM RASTER TO RAYS IN GAMES(sigraph 2019)](https://drive.google.com/file/d/1yGWMBCRMKOZwJCWQ6e9HkDjVRz9CkYp8/view)
 
