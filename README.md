@@ -49,8 +49,8 @@
 ### TA
 
 ## The Entity-Component-System
-* [The Entity-Component-System - C++ Game Design Pattern (Part 1)](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/the-entity-component-system-c-game-design-pattern-part-1-r4803/)
-* [The Entity-Component-System - BountyHunter game (Part 2)](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/the-entity-component-system-bountyhunter-game-part-2-r4804/)
+* [The Entity-Component-System - C++ Game Design Pattern (Part 1)](https://tsprojectsblog.wordpress.com/portfolio/entity-component-system/)
+* [The Entity-Component-System - BountyHunter game (Part 2)](https://tsprojectsblog.wordpress.com/2017/11/16/the-bountyhunter-game/)
 
 ## Uncategorized
 * [FROM RASTER TO RAYS IN GAMES(sigraph 2019)](https://drive.google.com/file/d/1yGWMBCRMKOZwJCWQ6e9HkDjVRz9CkYp8/view)
