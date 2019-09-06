@@ -6,6 +6,8 @@
 ## Pipeline architecture
 * [modern rendering with metal](https://developer.apple.com/videos/play/wwdc2019/601/)
 * [FrameGraph: Extensible Rendering Architecture in Frostbite](https://www.gdcvault.com/play/1024612/FrameGraph-Extensible-Rendering-Architecture-in)
+* [Destiny’s Multi-threaded Renderer Architecture](http://advances.realtimerendering.com/destiny/gdc_2015/Tatarchuk_GDC_2015__Destiny_Renderer_web.pdf)
+* [UnityScriptableRenderPipeline](https://aras-p.info/texts/files/2017_GDC_UnityScriptableRenderPipeline.pdf)
 
 ### GPU interface
 [Designing a Modern GPU Interface](http://www.goatientertainment.com/downloads/Designing%20a%20Modern%20GPU%20Interface.pptx)
@@ -45,6 +47,10 @@
 * [scratchapixel](https://www.scratchapixel.com/)
 * [gpu gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
 ### TA
+
+## The Entity-Component-System
+* [The Entity-Component-System - C++ Game Design Pattern (Part 1)](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/the-entity-component-system-c-game-design-pattern-part-1-r4803/)
+* [The Entity-Component-System - BountyHunter game (Part 2)](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/the-entity-component-system-bountyhunter-game-part-2-r4804/)
 
 ## Uncategorized
 * [FROM RASTER TO RAYS IN GAMES(sigraph 2019)](https://drive.google.com/file/d/1yGWMBCRMKOZwJCWQ6e9HkDjVRz9CkYp8/view)
