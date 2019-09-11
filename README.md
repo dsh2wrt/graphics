@@ -47,6 +47,7 @@
 * [Learn OpenGL](https://learnopengl.com/)
 * [scratchapixel](https://www.scratchapixel.com/)
 * [gpu gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
+* [gdc vault](https://www.gdcvault.com/)
 ### TA
 
 ## The Entity-Component-System
