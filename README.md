@@ -52,6 +52,7 @@
 * [The Entity-Component-System - C++ Game Design Pattern (Part 1)](https://tsprojectsblog.wordpress.com/portfolio/entity-component-system/)
 * [The Entity-Component-System - BountyHunter game (Part 2)](https://tsprojectsblog.wordpress.com/2017/11/16/the-bountyhunter-game/)
 * [Entity Component Systems & Data Oriented Design](https://aras-p.info/texts/files/2018Academy%20-%20ECS-DoD.pdf)
+* [data oriented design resource](https://github.com/dbartolini/data-oriented-design)
 
 ## Uncategorized
 * [FROM RASTER TO RAYS IN GAMES(sigraph 2019)](https://drive.google.com/file/d/1yGWMBCRMKOZwJCWQ6e9HkDjVRz9CkYp8/view)
