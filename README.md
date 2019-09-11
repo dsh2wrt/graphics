@@ -8,6 +8,7 @@
 * [FrameGraph: Extensible Rendering Architecture in Frostbite](https://www.gdcvault.com/play/1024612/FrameGraph-Extensible-Rendering-Architecture-in)
 * [Destiny’s Multi-threaded Renderer Architecture](http://advances.realtimerendering.com/destiny/gdc_2015/Tatarchuk_GDC_2015__Destiny_Renderer_web.pdf)
 * [UnityScriptableRenderPipeline](https://aras-p.info/texts/files/2017_GDC_UnityScriptableRenderPipeline.pdf)
+* [halcyon architecture](https://media.contentapi.ea.com/content/dam/ea/seed/presentations/wihlidal-halcyonarchitecture.pdf)
 
 ### GPU interface
 [Designing a Modern GPU Interface](http://www.goatientertainment.com/downloads/Designing%20a%20Modern%20GPU%20Interface.pptx)
