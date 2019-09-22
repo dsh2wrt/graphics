@@ -50,6 +50,9 @@
 * [gdc vault](https://www.gdcvault.com/)
 ### TA
 
+## Level Editor
+* [Godot docs](https://docs.godotengine.org/en/stable/index.html)
+
 ## The Entity-Component-System
 * [The Entity-Component-System - C++ Game Design Pattern (Part 1)](https://tsprojectsblog.wordpress.com/portfolio/entity-component-system/)
 * [The Entity-Component-System - BountyHunter game (Part 2)](https://tsprojectsblog.wordpress.com/2017/11/16/the-bountyhunter-game/)
