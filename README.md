@@ -58,6 +58,9 @@
 * [The Entity-Component-System - BountyHunter game (Part 2)](https://tsprojectsblog.wordpress.com/2017/11/16/the-bountyhunter-game/)
 * [Entity Component Systems & Data Oriented Design](https://aras-p.info/texts/files/2018Academy%20-%20ECS-DoD.pdf)
 * [data oriented design resource](https://github.com/dbartolini/data-oriented-design)
+* [Get Started with the Unity* Entity Component System (ECS), C# Job System, and Burst Compiler](https://software.intel.com/en-us/articles/get-started-with-the-unity-entity-component-system-ecs-c-sharp-job-system-and-burst-compiler)
+* [Putting Your Data and Code in Order: Optimization and Memory – Part 1](https://software.intel.com/en-us/articles/putting-your-data-and-code-in-order-optimization-and-memory-part-1)
+* [Putting Your Data and Code in Order: Data and layout - Part 2](https://software.intel.com/en-us/articles/putting-your-data-and-code-in-order-data-and-layout-part-2)
 
 ## Uncategorized
 * [FROM RASTER TO RAYS IN GAMES(sigraph 2019)](https://drive.google.com/file/d/1yGWMBCRMKOZwJCWQ6e9HkDjVRz9CkYp8/view)
