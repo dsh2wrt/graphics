@@ -53,6 +53,9 @@
 * [gdc vault](https://www.gdcvault.com/)
 ### TA
 
+## DirectX
+* [effecient buffer management](https://developer.nvidia.com/sites/default/files/akamai/gamedev/files/gdc12/Efficient_Buffer_Management_McDonald.pdf)
+
 ## Level Editor
 * [Godot docs](https://docs.godotengine.org/en/stable/index.html)
 
