@@ -56,7 +56,7 @@
 * [gpu gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
 * [gdc vault](https://www.gdcvault.com/)
 ### TA
-
+* [alanzucconi](https://www.alanzucconi.com/)
 ## DirectX
 * [effecient buffer management](https://developer.nvidia.com/sites/default/files/akamai/gamedev/files/gdc12/Efficient_Buffer_Management_McDonald.pdf)
 
