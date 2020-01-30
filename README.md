@@ -44,6 +44,9 @@
 #### TXAA
 * [GDC2016_Temporal_Reprojection_AA_INSIDE](https://github.com/playdeadgames/temporal/blob/master/GDC2016_Temporal_Reprojection_AA_INSIDE.pdf)
 
+## Hiar
+* [AMD_kajiya](https://developer.amd.com/wordpress/media/2012/10/Scheuermann_HairRendering.pdf)
+
 ## Blog
 ### Synthesize 
 * [hanecci's blog](https://hanecci.com/)
