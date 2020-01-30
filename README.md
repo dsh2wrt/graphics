@@ -1,7 +1,6 @@
 # graphics
 
 ## Graphics basics
-### Noise
 
 ## Pipeline architecture
 * [modern rendering with metal](https://developer.apple.com/videos/play/wwdc2019/601/)
