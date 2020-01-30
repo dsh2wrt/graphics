@@ -1,6 +1,8 @@
 # graphics
 
 ## Graphics basics
+### Texture
+* [Texturing & Modeling:A Procedural Approach](http://www.doc88.com/p-2455233303253.html）
 
 ## Pipeline architecture
 * [modern rendering with metal](https://developer.apple.com/videos/play/wwdc2019/601/)
