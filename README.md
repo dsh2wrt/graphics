@@ -42,7 +42,7 @@
 
 ## Postprocess
 ### AA
-####TXAA
+#### TXAA
 * [GDC2016_Temporal_Reprojection_AA_INSIDE](https://github.com/playdeadgames/temporal/blob/master/GDC2016_Temporal_Reprojection_AA_INSIDE.pdf)
 
 ## Blog
