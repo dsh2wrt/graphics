@@ -40,6 +40,11 @@
 ### Camera Collision
 * [Real-Time Cameras - Navigation and Occlusion](https://www.gamasutra.com/view/feature/132456/realtime_cameras__navigation_and_.php)
 
+## Postprocess
+### AA
+####TXAA
+* [GDC2016_Temporal_Reprojection_AA_INSIDE](https://github.com/playdeadgames/temporal/blob/master/GDC2016_Temporal_Reprojection_AA_INSIDE.pdf)
+
 ## Blog
 ### Synthesize 
 * [hanecci's blog](https://hanecci.com/)
