@@ -52,7 +52,7 @@
 ## Blog
 ### Synthesize 
 * [hanecci's blog](https://hanecci.com/)
-* [sigraph realtime rendering](http://advances.realtimerendering.com/)
+* [aras-p](https://aras-p.info/)
 
 ### Game Engine(Company)
 * [activision](https://research.activision.com/publications)
@@ -64,6 +64,7 @@
 * [scratchapixel](https://www.scratchapixel.com/)
 * [gpu gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
 * [gdc vault](https://www.gdcvault.com/)
+* [sigraph realtime rendering](http://advances.realtimerendering.com/)
 ### TA
 * [alanzucconi](https://www.alanzucconi.com/)
 ## DirectX
