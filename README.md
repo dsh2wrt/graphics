@@ -54,6 +54,7 @@
 * [hanecci's blog](https://hanecci.com/)
 * [aras-p](https://aras-p.info/)
 * [coding adventures](https://astralcode.blogspot.com/)
+* [jendri killner](https://www.jendrikillner.com/)
 
 ### Game Engine(Company)
 * [activision](https://research.activision.com/publications)
