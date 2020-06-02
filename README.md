@@ -55,6 +55,7 @@
 * [aras-p](https://aras-p.info/)
 * [coding adventures](https://astralcode.blogspot.com/)
 * [jendri killner](https://www.jendrikillner.com/)
+* [realtimerendering](https://www.realtimerendering.com/)
 
 ### Game Engine(Company)
 * [activision](https://research.activision.com/publications)
