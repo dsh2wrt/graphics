@@ -56,6 +56,7 @@
 * [coding adventures](https://astralcode.blogspot.com/)
 * [jendri killner](https://www.jendrikillner.com/)
 * [realtimerendering](https://www.realtimerendering.com/)
+* [TA harry Alisavakis](https://halisavakis.com/)
 
 ### Game Engine(Company)
 * [activision](https://research.activision.com/publications)
@@ -68,6 +69,7 @@
 * [gpu gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
 * [gdc vault](https://www.gdcvault.com/)
 * [sigraph realtime rendering](http://advances.realtimerendering.com/)
+* [TA Harry Alisavakis](https://halisavakis.com/)
 ### TA
 * [alanzucconi](https://www.alanzucconi.com/)
 ## DirectX
