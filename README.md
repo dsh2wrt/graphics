@@ -72,6 +72,7 @@
 * [TA Harry Alisavakis](https://halisavakis.com/)
 ### TA
 * [alanzucconi](https://www.alanzucconi.com/)
+* [Harry Alisavakis](https://halisavakis.com/)
 ## DirectX
 * [effecient buffer management](https://developer.nvidia.com/sites/default/files/akamai/gamedev/files/gdc12/Efficient_Buffer_Management_McDonald.pdf)
 
