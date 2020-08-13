@@ -5,3 +5,4 @@
 * [Experiment with generating clouds in real time on low end computer](https://github.com/clayjohn/realtime_clouds)
 * [FORUM Horizon:zero Dawn Cloud System](https://www.gamedev.net/forums/topic/680832-horizonzero-dawn-cloud-system/)
 * [Vulkan-based implementation of clouds from Decima Engine](https://github.com/mccannd/Project-Marshmallow)
+* [ea_16_cloud](https://github.com/sebh/TileableVolumeNoise)
