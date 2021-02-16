@@ -73,6 +73,9 @@
 ### TA
 * [alanzucconi](https://www.alanzucconi.com/)
 * [Harry Alisavakis](https://halisavakis.com/)
+### GPU Architecture
+* [rastergrid](https://rastergrid.com/blog/)
+
 ## DirectX
 * [effecient buffer management](https://developer.nvidia.com/sites/default/files/akamai/gamedev/files/gdc12/Efficient_Buffer_Management_McDonald.pdf)
 
